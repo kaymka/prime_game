@@ -7,7 +7,7 @@
 ### Локальная установка
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/DmitriiKolotuhin/prime-game
+   git clone https://github.com/kaymka/prime_game
    cd Game_name
 2. Установите зависимости через Composer:
     ```bash
@@ -19,7 +19,7 @@
 1. Убедитесь, что Composer установлен глобально.
 2. Установите игру:
     ```bash
-    composer global require dmitriikolotuhin/php_kolotuhin_dv
+    composer global require kaymka/php_kajmakova_ev
 3. Запустите игру из командной строки:
     ```bash
     prime
@@ -29,7 +29,7 @@
 - wp-cli/php-cli-tools — библиотека для удобного ввода/вывода в консоли.
 
 ## Ссылки
-- Packagist: [Prime Game](https://packagist.org/packages/dmitriikolotuhin/php_kolotuhin_dv)
-- [Репозиторий на GitHub](https://github.com/DmitriiKolotuhin/prime-game)
-- Автор: dmitriykolotukhin
+- Packagist: [Prime Game](https://packagist.org/packages/kaymka/php_kajmakova_ev)
+- [Репозиторий на GitHub](https://github.com/kaymka/prime_game)
+- Автор: kaymka
 - Лицензия: MIT
